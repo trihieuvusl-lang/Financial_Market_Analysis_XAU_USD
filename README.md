@@ -1,6 +1,6 @@
 # Gold (XAU/USD) Return Distribution & Risk Analysis in R
 
-> This project applies code and methodology developed in the course **Modelling Financial Risk with R**, taught by dr Michał Rubaszek at SGH Warsaw School of Economics (2025). The R scripts are adapted from course materials. Analysis and interpretation are applied independently to XAU/USD data.
+> This project applies code and methodology developed in the course **Modelling Financial Risk with R**, taught by dr Michał Rubaszek at SGH Warsaw School of Economics (2026). The R scripts are adapted from course materials. Analysis and interpretation are applied independently to XAU/USD data.
 
 An end-to-end analysis of daily gold price returns using R, covering data collection, distributional modelling, fat-tail testing, and volatility structure characterisation.
 
