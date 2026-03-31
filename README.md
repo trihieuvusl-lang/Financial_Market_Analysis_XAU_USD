@@ -145,8 +145,6 @@ Three workstreams extend this analysis toward a full risk measurement framework.
 install.packages(c("zoo", "ggplot2", "rugarch", "moments", "MASS", "tseries"))
 ```
 
-R version 4.x or higher recommended.
-
 ## Data Source
 
 XAU/USD daily closing prices from [Stooq.pl](https://stooq.pl/q/?s=xauusd). To refresh the data, set `CreFile = TRUE` in `LoadFundData.R`.
